@@ -1,0 +1,50 @@
+{
+  "cerrar_aplicacion.dart": {
+    "old_identifier_name": "cerrarAplicacion",
+    "new_identifier_name": "cerrarAplicacion",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "78afe4e5466e3c3cda8b89807a9a53f922a36e94d18a476ed93c88aec1c83e26",
+    "original_checksum": "78afe4e5466e3c3cda8b89807a9a53f922a36e94d18a476ed93c88aec1c83e26"
+  },
+  "envio_e.dart": {
+    "old_identifier_name": "envioE",
+    "new_identifier_name": "envioE",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "7c6778a9a0defb635619eb47015d8e1a11c928ab60f240993d699da947cbf81b",
+    "original_checksum": "7c6778a9a0defb635619eb47015d8e1a11c928ab60f240993d699da947cbf81b"
+  },
+  "obtenerid_customer_m_p.dart": {
+    "old_identifier_name": "obteneridCustomerMP",
+    "new_identifier_name": "obteneridCustomerMP",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "7fb9acfdd816267cccac2219ab0d1835e6f0ecb2bbc3036dc3479bd440971c6a",
+    "original_checksum": "7fb9acfdd816267cccac2219ab0d1835e6f0ecb2bbc3036dc3479bd440971c6a"
+  },
+  "crear_sesion_pago.dart": {
+    "old_identifier_name": "crearSesionPago",
+    "new_identifier_name": "crearSesionPago",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "1c2f087d94269d5eb237a26387a359a1ae8d2a919eb82e8bd3f121b47df7c937",
+    "original_checksum": "1c2f087d94269d5eb237a26387a359a1ae8d2a919eb82e8bd3f121b47df7c937"
+  },
+  "custom_functions.dart": {
+    "old_identifier_name": "CustomFunctions",
+    "new_identifier_name": "CustomFunctions",
+    "type": "F",
+    "is_deleted": false,
+    "current_checksum": "6f784c7d43dcb95f738f93ac21b3e8674d9a1738a672ceac328eaa63e7399a6d",
+    "original_checksum": "6f784c7d43dcb95f738f93ac21b3e8674d9a1738a672ceac328eaa63e7399a6d"
+  },
+  "pubspec.yaml": {
+    "old_identifier_name": "pubspec.yaml",
+    "new_identifier_name": "pubspec.yaml",
+    "type": "D",
+    "is_deleted": false,
+    "current_checksum": "4f55bbf55d72951426428cb568117ecb872559bdcafe1624784cb258c201ec16",
+    "original_checksum": "4f55bbf55d72951426428cb568117ecb872559bdcafe1624784cb258c201ec16"
+  }
+}
